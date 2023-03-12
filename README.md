@@ -1,4 +1,4 @@
-# Project 5: Nonogram Player
+# Project: Nonogram Player
 
 In this project, we will write a program that  a program that creates [nonograms](https://en.wikipedia.org/wiki/Nonogram) from [binary images](https://en.wikipedia.org/wiki/Binary_image) and allows us to play those puzzles.
 
